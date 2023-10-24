@@ -5,6 +5,6 @@
 layout: home
 ---
 
-![Javhaan St Rose](/img/javhaan.heic)
+![Javhaan St Rose](/img/javhaan.jpg)
 
 **Javhaan St.Rose**
