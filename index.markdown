@@ -5,6 +5,6 @@
 layout: home
 ---
 
-![Cheikh Mbengue](/img/img1.jpg)
+![Javhaan St Rose](/img/javhaan.heic)
 
-**Cheikh O Mbengue, PhD**
+**Javhaan St.Rose**

@@ -4,28 +4,15 @@ title: About Me
 permalink: /about/
 ---
 
-!["The Pitons of Saint Lucia."](/img/img2.jpg)
+!["Sunset picture at Pigeon Island."](/img/view.jpeg)
 
-Hi! I'm Cheikh, and welcome to my website. I've included a blog page here, so do check back periodically for updates. I live in the Caribbean on [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) island. The photo above is taken on a catamaran off the coast of Saint Lucia.
+Hi! I'm Javhaan, and welcome to my GitHub website 😁. I'm from the beautiful island of Saint Lucia 🇱🇨. The photo above was taken at the Pigeon Island National Park.
 
-While I wouldn't call myself a technophile, I enjoy seeking and employing new technology to improve my environment. My interest in computers and computer technology started when I was introduced to a computer running on an Intel 80286 16-bit microprocessor with MS-DOS. Although I used computers then for standard tasks like word processing, spreadsheets, and database management, I was primarily interested in gaming. My interests have grown and evolved since then, particularly in designing and programming innovative solutions to existing and future problems.
+I have a deep passion for both technology and languages, which have become defining aspects of my life. My love for languages is particularly evident in my proficiency in French, where I hold a certified B2 level 🥖, and my ongoing journey in mastering the intricacies of German, a language I am self-learning with great enthusiasm. Technology, on the other hand, is a realm that constantly fascinates me. I find joy in exploring new gadgets, whether it's the latest laptops 🧑🏾‍💻, cutting-edge smartphones 📱, or any tech innovation that promises to enhance people's lives. However, I am also mindful of the potential pitfalls of technology dependency 😮‍💨, especially in the realm of social media. I've made a conscious effort to reduce my time spent on platforms like Tiktok and instead, I'm actively working on regaining my focus on long-form content, recognizing the importance of a balanced relationship with technology 🧘🏾‍♂️.
 
-I have worked on various science, engineering, and business software products. I code primarily in Python but have built or contributed to C++, Fortran, and JavaScript software. As an engineer by training, I use a customer-centric product development approach and an iterative, test-driven product development life cycle.
+I have worked on projects so far in languages like, Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="15"> and JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="15">. I have grown to appreciate both languages while actively learning to enhance my skills as a developer.
 
-Today, I work as a Research and Engineering Scientist at Elizabeth Consulting International Inc. Also, I am the project manager and model products lead at the [Climate Modeling Alliance](https://clima.caltech.edu) (CliMA). At CliMA, I led a software team that developed a web application that delivers projections of climate design conditions for building design and engineering applications. I also employ Prince2 Agile project management principles and processes to keep the CliMA project on track.
+Currently, I serve as the Operations Associate at Elizabeth Consulting International Inc., working closely with the Lead Research and Engineering Scientist, Dr. Cheikh Mbengue, to advance software development projects for the Climate Modeling Alliance (CliMA). I also provide support to the Finance Manager, Mingee Lucien, in various accounting and finance tasks.
 
-I enjoy playing video games, reading non-fiction books, and spending time with my family and friends in my spare time. I also like to play cricket, practice karate, and run. Finally, I enjoy listening to classical music, playing my viola, and visiting museums.
+I love video games, particularly The Sims 4. I'm currently taking a mini break from playing The Sims 4 while I decide on the next direction for my in-game family. My passion for music spans across various genres, including classical, 90s R&B, hyperpop, and 2000s pop. Additionally, I'm an avid reader, with a deep love for murder mysteries. In my opinion, it's the best book genre. 🤭
 
-***
-
-### Select Awards
-
-2009 : Donald Willis Fellowship
-
-2006 : Dennis H. Mahan Award
-
-2005 : [The Commonwealth Caribbean Rhodes Scholarship](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/)
-
-2005 : The Cadet Roger A. Herndon Memorial Award
-
-1998 : Graduation prize for the study of Principles of Business and Information Technology
