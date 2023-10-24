@@ -12,7 +12,7 @@ I have a deep passion for both technology and languages, which have become defin
 
 I have worked on projects so far in languages like, Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="15"> and JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="15">. I have grown to appreciate both languages while actively learning to enhance my skills as a developer.
 
-Currently, I serve as the Operations Associate at Elizabeth Consulting International Inc., working closely with the Lead Research and Engineering Scientist, Dr. Cheikh Mbengue, to advance software development projects for the Climate Modeling Alliance (CliMA). I also provide support to the Finance Manager, Mingee Lucien, in various accounting and finance tasks.
+Currently, I serve as the Operations Associate at Elizabeth Consulting International Inc. <img src="/img/company_logo_.ico">, working closely with the Lead Research and Engineering Scientist, Dr. Cheikh Mbengue, to advance software development projects for the Climate Modeling Alliance (CliMA). I also provide support to the Finance Manager, Mingee Lucien, in various accounting and finance tasks.
 
 I love video games, particularly The Sims 4. I'm currently taking a mini break from playing The Sims 4 while I decide on the next direction for my in-game family. My passion for music spans across various genres, including classical, 90s R&B, hyperpop, and 2000s pop. Additionally, I'm an avid reader, with a deep love for murder mysteries. In my opinion, it's the best book genre. 🤭
 
