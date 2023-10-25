@@ -10,7 +10,7 @@ permalink: /education/
 
 2015 - 2017: [CAPE](https://www.cxc.org/examinations/cape/)
 
-### [St. Mary&#39;s College](https://en.wikipedia.org/wiki/Saint_Mary%27s_College_(Saint_Lucia))
+### [Castries Comprehensive Secondary School](https://vle.ccss.edu.lc/)
 
 #### Location: Castries, Saint Lucia
 
