@@ -8,4 +8,11 @@ permalink: /employment/
 
 #### Location: Castries, Saint Lucia
 
-2021 - Present: Operations Associate
+2022 - Present: Finance Associate
+
+
+### Total Construction Supplies
+
+#### Location: Marigot Highway, Saint Lucia
+
+2017 - 2022: Accounts/Delivery Clerk

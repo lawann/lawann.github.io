@@ -5,6 +5,6 @@
 layout: home
 ---
 
-![Javhaan St Rose](/img/jstrose.jpeg)
+![Lawann Andrew](/img/IMG_4105.jpeg)
 
-**Javhaan St.Rose**
+**Lawann Andrew**
