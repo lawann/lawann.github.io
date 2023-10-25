@@ -7,4 +7,4 @@ layout: home
 
 ![Lawann Andrew](/img/IMG_4105.jpeg)
 
-**Lawann Andrew**
+**Lawann C Andrew**
