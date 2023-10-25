@@ -1,3 +1,3 @@
 # Personal Website Management
 
-This page manages the `javhaan.github.io` website.
+This page manages the `lawann.github.io` website.
